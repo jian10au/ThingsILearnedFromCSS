@@ -22,7 +22,13 @@ The height and width of the div can control the content area size but it cannot 
 2. absoluted means RELATIVE to its closest parent container. Notice, the parent container's position property also needs to be set to NON-STATIC to make the postion: absolute useful for its children. 
 * Other - sticky;
 
+4. CSS Selector:
 
+ . notion - class
+ '# notion - id
+  without # or . - element in html
+
+  starts with parent and then children. Parent or Child can be any three of above element. And the combination is wihtout any limitation. 
 
 
 
